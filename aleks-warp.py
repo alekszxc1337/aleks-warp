@@ -12,7 +12,7 @@ import time
 
 print ("Copy User ID From : Setting/Advanced/Diagnostics/ID")
 
-print ("By - 6six6") 
+print ("./Alekszxc") 
 
 referrer = input("WARP+ ID: ")
 
@@ -70,7 +70,7 @@ while True:
 
     if result.status_code == 200:
 
-        print(c,"GB added successfully!")
+        print(c,"GB added successfully! [H0@X]")
 
         c = c + 1
 
